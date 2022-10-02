@@ -11,3 +11,9 @@
 # Команда для запуска: 
 
 `python ФТ-210008Мурашова.py`
+
+# Тесты
+
+![Img alt](https://github.com/arinka-mandarinka/Taxi/blob/master/images/test%201.PNG)
+
+![Img alt](https://github.com/arinka-mandarinka/Taxi/blob/master/images/test%202.PNG)
